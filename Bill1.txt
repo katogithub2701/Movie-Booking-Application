@@ -1,0 +1,7 @@
+--------------- BILL ---------------
+Film:          Nguoi vo cuoi cung
+Hall:          Hall3
+Date:          11:15 11/11/2023
+Ticket:        3 x Ticket ( [D1] [D2] [D3] )
+Total Price:   255000
+
